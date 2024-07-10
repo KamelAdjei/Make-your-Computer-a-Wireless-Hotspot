@@ -2,4 +2,4 @@
 How To Turn Windows Computer Into a Wireless Hotspot
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=joVRu__09Gs" frameborder="0" allowfullscreen></iframe>
+[![Watch my tutorial here!](https://img.youtube.com/vi/joVRu__09Gs/0.jpg)](https://www.youtube.com/watch?v=joVRu__09Gs)
